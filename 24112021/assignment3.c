@@ -7,7 +7,7 @@ void main()
         int age;
 	    double sum, pre, disc = 0.0, com = 0.0;
         printf("Enter Name: ");
-        scanf("%s",&name);
+        gets(name);
 
         printf("Enter Sum Assured: ");
         scanf("%lf",&sum);

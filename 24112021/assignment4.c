@@ -8,7 +8,7 @@ void main()
         int age;
 	    double basic, da = 0.0, sa = 0.0, gross = 0.0;
         printf("Enter name: ");
-        scanf("%s",&name);
+        gets(name);
 
         printf("Enter basic salary: ");
         scanf("%lf",&basic);

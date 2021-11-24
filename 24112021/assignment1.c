@@ -8,7 +8,7 @@ void main()
 	double ti, tax=0.0;
 	//1st we will take Name
 	printf("Enter the name ");
-	scanf("%s",&name);
+	gets(name);
 		
 	//2nd we will take age
 	printf("Enter the age ");
